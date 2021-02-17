@@ -1,14 +1,285 @@
-# Author details
-#
-# 1. Edit information below
-# 2. Change site author in config.yml
-# 3. Change default post/page authors in config.yml
-#
-# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-phlow: # replace this with your info
-  name: "Phlow"
-  siterole: "webmaster, developer, copywriter, designer"
-  uri: http://phlow.de/
-  email:
-  twitter: "@phlow"
-# you can add more authors here
+sarah_savant:
+  name             : "Sarah Savant"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+mathew_barber:
+  name             : "Mathew Barber"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+peter_verkinderen:
+  name             : "Peter Verkinderen"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+aslisho_qurboniev:
+  name             : "Aslisho Qurboniev"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+claire_savina:
+  name             : "Claire Savina"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+anjum_alam:
+  name             : "Anjum Alam"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+gowaart_van_den_bossche:
+  name             : "Gowaart Van Den Bossche"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : "This is a sample *biography* **for** Gowaart"
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+masoumeh_seydi:
+  name             : "Masoumeh Seydi"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+david_smith:
+  name             : "David Smith"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+lorenz_nigst:
+  name             : "Lorenz Nigst"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+hamid_reza_hakimi:
+  name             : "Hamid Reza Hakimi"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+thomas_benfey:
+  name             : "Thomas Benfey"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+ryan_muther:
+  name             : "Ryan Muther"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+sarah_savant_masoumeh_seydi:
+  name             : "Sarah Savant and Masoumeh Seydi"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+Kitab:
+  name             : "KITAB"
+  avatar           : # path of avatar image, e.g. ""
+  bio              : 
+  location         :
+  email            :
+  uri              :
+  flickr           :
+  facebook         :
+  github           :
+  google_plus      :
+  instagram        :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
